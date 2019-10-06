@@ -1,6 +1,6 @@
 # API-clone-with-SQlite3
 In this project I stored the data in database in sqlite3.
-# SQLite3-Database
+## SQLite3-Database
 ###  In this project I have write Saral-like-API by use of SQLite database. I have create saraldb database in this database create two table courses and exercise. this project we can test on postman also use express module in this project.
 
 ## Installing the SQLite3 Driver for Node.js
